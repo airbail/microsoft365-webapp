@@ -1,1 +1,14 @@
 
+{
+  "name": "microsoft365-webapp",
+  "version": "1.0.0",
+  "description": "A web application integrating with Microsoft 365 services",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  }
+}
