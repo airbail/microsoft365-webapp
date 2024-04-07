@@ -59,4 +59,4 @@ In this `README.md` file:
 - The `Contributing` section invites contributions from other developers.
 - The `License` section specifies the license under which the project is distributed.
 
-Feel free to customize the `README.md` file to include specific details about your project, such
+
